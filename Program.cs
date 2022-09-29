@@ -8,16 +8,16 @@ namespace Ejercicio_Comparación
         {
             int x;
             int y;
-            int b;
+            int n;
             x = 8;
             y = 6;
             n = y * x;
-            Console.WriteLine(x * y)
+            Console.WriteLine(x * y);
             if (n > 20)
 
-            { Console.WriteLine(n + "es mayor a 19"); }
+            { Console.WriteLine(n + "es mayor a 20"); }
 
-            else { Console.WriteLine(n + "es menor a 19"); }
+            else { Console.WriteLine(n + "es menor a 20"); }
 
 
 
